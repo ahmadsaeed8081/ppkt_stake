@@ -524,7 +524,7 @@ const FistBox = ({
                       onChange={(e) => setStakedAmount(e.target.value)}
                     />
                     <div className="ib-right flex items-center">
-                      <h1 className="ib-txt">Tyon</h1>
+                      <h1 className="ib-txt">PPKT</h1>
                       <button
                         className="ib-btn button"
                         onClick={(e) =>
