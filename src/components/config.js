@@ -1,9 +1,9 @@
-export const stake1_address="0x4903500dd64e2531cE7ebDA6Fe60B462d5034631";
-export const stake2_address="0x4903500dd64e2531cE7ebDA6Fe60B462d5034631";
+export const stake1_address="0x942978F4e26AE488FcEf600817A5509bD62d99E2";
+export const stake2_address="0x942978F4e26AE488FcEf600817A5509bD62d99E2";
 
 
-export  const Stake1_token_Address="0x51a61EC45a849360580Daaa52b1a30D699D1BB32";
-export  const Stake2_token_Address="0x51a61EC45a849360580Daaa52b1a30D699D1BB32";
+export  const Stake1_token_Address="0x128B9e353748B81b35c6A41856a640a5193413c5";
+export  const Stake2_token_Address="0x128B9e353748B81b35c6A41856a640a5193413c5";
 
 
 
