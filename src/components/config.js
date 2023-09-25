@@ -1,5 +1,5 @@
-export const stake1_address="0x942978F4e26AE488FcEf600817A5509bD62d99E2";
-export const stake2_address="0x942978F4e26AE488FcEf600817A5509bD62d99E2";
+export const stake1_address="0x31F24eF66C32Db028aB23784C9880281b0Ae3f01";
+export const stake2_address="0x31F24eF66C32Db028aB23784C9880281b0Ae3f01";
 
 
 export  const Stake1_token_Address="0x128B9e353748B81b35c6A41856a640a5193413c5";
