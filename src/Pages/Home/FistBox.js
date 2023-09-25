@@ -419,7 +419,7 @@ const FistBox = ({
             <div className="lbl-side"></div>
             <div className="val-side">
               <a
-                href="https://app.pulsex.com/swap?inputCurrency=0x6B175474E89094C44Da98b954EedeAC495271d0F &outputCurrency=0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599"
+                href={"https://polygonscan.com/address/" + Stake2_token_Address}
                 target="_blank"
                 className="sub-menu-item"
                 style={{ color: "#2498A3" }}
@@ -433,7 +433,7 @@ const FistBox = ({
             <div className="lbl-side"></div>
             <div className="val-side">
               <a
-                href={"https://scan.pulsechain.com/address/" + stake2_address}
+                href={"https://polygonscan.com/address/" + stake2_address}
                 target="_blank"
                 className="sub-menu-item"
                 style={{ color: "#2498A3" }}
