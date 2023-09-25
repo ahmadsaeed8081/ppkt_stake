@@ -8,7 +8,7 @@ import {
   ArrowDownIcon2,
   ArrowUpIcon,
 } from "../../assets/Icons";
-import ConfirmationPopup from "../../components/confirmationPopup";
+import ConfirmationPopup2 from "../../components/confirmationPopup2";
 import Web3 from "web3";
 import { useNetwork, useSwitchNetwork } from "wagmi";
 import moment from "moment";
@@ -797,7 +797,7 @@ const FistBox = ({
         </div>
       ) : null}
       <Modal open={open} onClose={() => setOpen(false)}>
-        <ConfirmationPopup setOpen={setOpen} unstaking={unstaking} />
+        <ConfirmationPopup2 setOpen2={setOpen} unstaking={unstaking} />
       </Modal>
     </div>
   );
